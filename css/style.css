@@ -1,0 +1,39 @@
+    #pro_image {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        vertical-align: center;
+    }
+    
+    #gplusButton {
+        box-sizing: border-box;
+        position: relative;
+        /* width: 13em;  - apply for fixed size */
+        margin: 0.2em;
+        margin-top: 40px;
+        padding: 0 15px 0 46px;
+        border: none;
+        text-align: left;
+        line-height: 34px;
+        white-space: nowrap;
+        border-radius: 0.2em;
+        font-size: 16px;
+        color: #FFF;
+    }
+    
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        width: 400px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+        margin-bottom: 20px;
+    }
+    
+    .title {
+        color: grey;
+        font-size: 18px;
+    }
+    
+    body {
+        padding: 2em;
+    }
